@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /Admin
+
+Sitemap: https://www.wizhat.net/sitemap.xml
